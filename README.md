@@ -5,6 +5,6 @@ Two PDF files and an audio URL file are included in each *The Economist* issue d
 
 Pull requests and issues are welcomed.
 
-## BUY ME A COFFEE
+## 临时暂停更新
 
-![wechat-paycode](https://ml.yscale.cf/paycode-small.png)
+因为计划任务所在的设备升级，数据也需要迁移，因此暂停更新一段时间，预计九月份之前恢复.
